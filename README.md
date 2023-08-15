@@ -1,14 +1,14 @@
 DEPLOYED SITE URL: http://52.63.104.63/
                                                  
                                                      
-                                                  BUILDING DOCKER IMAGE AND CONTAINERS
+                                               BUILDING DOCKER IMAGE AND CONTAINERS
 <img width="1280" alt="1" src="https://github.com/Sabarishjoc/capstone/assets/129573072/5b277d42-abf0-4c55-adee-050bcc3e891e">
 
 <img width="1280" alt="4" src="https://github.com/Sabarishjoc/capstone/assets/129573072/b8d58bfb-824c-48be-9c29-57f49940d675">
 
 <img width="1280" alt="2" src="https://github.com/Sabarishjoc/capstone/assets/129573072/7db517d7-879d-4c8c-87e3-67880e91e5a4">
 
-                                                       DEPLPOYED SITE
+                                               DEPLPOYED SITE
 <img width="1280" alt="3" src="https://github.com/Sabarishjoc/capstone/assets/129573072/c2f510c9-c7c8-4b04-9b77-c36f44411d8c">
 
                                                LAUNCHING JENKINS AND CONFIGURATION
