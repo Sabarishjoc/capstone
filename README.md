@@ -33,11 +33,11 @@ DEPLOYED SITE URL: http://52.63.104.63/
                       
 <img width="1280" alt="15" src="https://github.com/Sabarishjoc/capstone/assets/129573072/50737ea9-0bf5-4a66-83a9-d986182c6e2c">
 
-                                                   SETTING UP MONITORING SYSTEM
+                                             SETTING UP MONITORING SYSTEM
                                                   
 <img width="1280" alt="5" src="https://github.com/Sabarishjoc/capstone/assets/129573072/dac8720e-32a3-45f0-9cf4-c24f39fc83a6">
 
-                                           SETTING UP NOTIFICATION AND SENDING NOTIFICATION IF APP IS DOWN
+                                   SETTING UP NOTIFICATION AND SENDING NOTIFICATION IF APP IS DOWN
                                           
 <img width="1280" alt="6" src="https://github.com/Sabarishjoc/capstone/assets/129573072/746ca2b5-10e9-4c6d-af84-2766a38997e0">
 
